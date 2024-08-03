@@ -39,7 +39,7 @@ function on_off() {
     clearDisplay()
 }
 
-document.querySelector(".display").style.color = "white"
+// document.querySelector(".display").style.color = "white"
 
 
 
